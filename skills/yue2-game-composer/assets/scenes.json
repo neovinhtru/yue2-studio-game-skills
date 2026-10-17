@@ -1,0 +1,58 @@
+{
+  "menu": {
+    "title": "Starlight Command - Main Menu",
+    "use": "Menu / lựa chọn hành tinh / giao diện chính",
+    "cot": "full",
+    "style": "Instrumental sci-fi game menu underscore, shimmering analog synth arpeggios, welcoming futuristic warmth, delicate space ambience, memorable short melodic motif, clean soft electronic pulse, slow evolving harmonies, cinematic but unobtrusive, gentle tension, clear stereo, polished game soundtrack, no lead singer, no spoken voice",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Outro]"
+  },
+  "earth-combat": {
+    "title": "Earth Defense - Combat Loop",
+    "use": "Chiến đấu trên Trái Đất: nhịp nhanh, rõ tín hiệu âm thanh gameplay",
+    "cot": "full",
+    "style": "Instrumental arcade twin-stick shooter music, urgent hybrid orchestral electronic combat, 138 BPM, driving synth bass, punchy tight drums, sharp rhythmic ostinato, heroic minor-key hook, sci-fi electronic pulses, escalating tension, short repeating phrases, enough mid-frequency room for weapons and UI, dynamic but not overcompressed, no vocals, no speech",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Bridge]\n[Instrumental]\n[Outro]"
+  },
+  "moon-exploration": {
+    "title": "Moon Ruins - Exploration",
+    "use": "Khám phá căn cứ bỏ hoang trên Mặt Trăng",
+    "cot": "full",
+    "style": "Instrumental atmospheric space exploration score, suspended shimmering synth pads, distant metallic echoes, low gravity pulses, cold moonlit ambience, restrained 95 BPM heartbeat rhythm, subtle mallet motif, loneliness and discovery, wide cinematic reverbs, evolving but sparse arrangement, low distraction for environmental effects, no human voices, no speech",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Bridge]\n[Instrumental]\n[Outro]"
+  },
+  "mars-battle": {
+    "title": "Red Dust Offensive - Mars Battle",
+    "use": "Hỏa Tinh: chiến đấu áp lực, nhịp căng và dồn dập",
+    "cot": "full",
+    "style": "Instrumental futuristic industrial rock and breakbeat video game soundtrack, 150 BPM, distorted low guitars, hard hitting hybrid percussion, tense synth stabs, sharp percussive momentum, red dust battlefield atmosphere, sci-fi machine textures, rising action energy, powerful loopable motifs, controlled low end, no vocals, no speech",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Bridge]\n[Instrumental]\n[Outro]"
+  },
+  "saturn-boss": {
+    "title": "Ring Devourer - Final Boss",
+    "use": "Sao Thổ: boss cuối, đen tối và quy mô lớn",
+    "cot": "full",
+    "style": "Instrumental epic sci-fi boss battle score, 160 BPM driving half-time and double-time contrast, gigantic cinematic percussion, dissonant choir-like synthetic textures without voices, low brass synths, aggressive distorted bass, colossal dark string ostinatos, high stakes space combat, memorable ominous motif, distinct phases with massive crescendos, sharp transient clarity for combat SFX, no lyrical singing, no speech",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Bridge]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Outro]"
+  },
+  "alien-horror": {
+    "title": "Abandoned Hive - Alien Horror",
+    "use": "Cảnh rùng rợn/quái vật ngoài hành tinh",
+    "cot": "full",
+    "style": "Instrumental dark alien horror ambient game soundtrack, ominous low-tuned drones, eerie spectral pads, subtle reverse metallic scraping, slow dragging industrial heartbeat, granular whispers as abstract synth texture with no actual voice, subterranean rumbles, unsettling non-resolving harmony, irregular sparse percussive ticks, cold deserted spaceship ambience, cinematic wide stereo, no vocals, no words",
+    "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Bridge]\n[Instrumental]\n[Outro]"
+  },
+  "victory": {
+    "title": "Orbit Secured - Victory",
+    "use": "Chiến thắng wave/boss, đoạn nhạc ngắn mang cảm giác thành tựu",
+    "cot": "full",
+    "style": "Instrumental triumphant science fiction game victory music, confident bright brass synthesizers, energetic punchy electronic drums, ascending melodic fanfare, sparkling arpeggios, uplifting chord resolution, dynamic polished arcade soundtrack, concise memorable anthem, warm heroic finale, no singing, no speech",
+    "lyrics": "[Intro]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Outro]"
+  },
+  "game-over": {
+    "title": "Last Signal - Game Over",
+    "use": "Thất bại/game over, nhẹ và lắng",
+    "cot": "full",
+    "style": "Instrumental melancholic science fiction game over cue, lonely analog synthesizer motif, fragile bell tones, fading low bass pulse, suspended minor chord, reflective cinematic ambient textures, short restrained ending, spacious dark reverb, no human voice, no words",
+    "lyrics": "[Intro]\n[Instrumental]\n[Outro]"
+  }
+}
